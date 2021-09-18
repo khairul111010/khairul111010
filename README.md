@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khairul Hasan</h1>
+<h1 align="center">Hello world👋, this is Khairul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
