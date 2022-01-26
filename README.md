@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/khairul111010?tab=repositories](https://github.com/khairul111010?tab=repositories)
 
-- 💬 Ask me about **Django Framework**
-
 - 📫 How to reach me **khairul18103199@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner**
