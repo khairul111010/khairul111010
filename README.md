@@ -1,13 +1,13 @@
 <h1 align="center">Hello world👋, this is Khairul Hasan</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
 
-- 🌱 I’m currently learning **GO, Typescript**
+- 🌱 I’m currently learning **WEB 3.0, GO, Typescript, Solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khairul111010?tab=repositories](https://github.com/khairul111010?tab=repositories)
 
-- 📫 How to reach me **khairul18103199@gmail.com**
+- 📫 How to reach me **khairul.hasan.dev@gmail.com**
 
-- ⚡ Fun fact **I am a fast learner**
+- ⚡ Fun fact **I am a fast learner & well at googling 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
