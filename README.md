@@ -6,23 +6,11 @@
 
 ## My stacks
 <img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-javascript](https://img.shields.io/badge/Javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-php](https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=8a2be2&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-nodejs](https://img.shields.io/badge/nodejs-211e1b?style=for-the-badge&logo=node.js&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=8a2be2&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=8a2be2&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=8a2be2&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-nodejs](https://img.shields.io/badge/nodejs-211e1b?style=for-the-badge&logo=node.js&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=8a2be2&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=8a2be2&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-mongodb](https://img.shields.io/badge/mongodb-211e1b?style=for-the-badge&logo=mongodb&logoColor=8a2be2&labelColor=211e1b)![badge-redis](https://img.shields.io/badge/redis-211e1b?style=for-the-badge&logo=redis&logoColor=8a2be2&labelColor=211e1b)
 
 
 ## My stats
-
-<!--START_SECTION:waka-->
-
-```text
-From: 24 May 2022 - To: 31 May 2022
-
-JavaScript   9 hrs 37 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.16 %
-Other        50 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.36 %
-````
-
-<!--END_SECTION:waka-->
-
 <p align = "center">
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=khairul111010&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest"/>
 <!--    <a href="https://github.com/anuraghazra/github-readme-stats">
