@@ -1,20 +1,7 @@
 <!-- ![Metrics](https://metrics.lecoq.io/khairul111010?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large) -->
 
 <h3>
-    
-```python
-from dataclasses import dataclass
-
-@dataclass
-class Introduction:
-work: list[str] = ["Bioinformatics", "DeepLearning", "NLP" ]
-interest: list[str] = ["Astrophysics","LifeScience","Literature","Popculture"]
-misc : list[str] = ["Collaboration", "Competitions"]
-funfact : str = None
-
-​
-
-````
+    Hi, this is Khairul Hasan
 </h3>
 
 ## My stacks
