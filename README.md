@@ -1,42 +1,51 @@
-<!-- ![Metrics](https://metrics.lecoq.io/khairul111010?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large) -->
+<!-- GIT HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.png">
 
-<h3>
-    Hi, this is Khairul Hasan
-</h3>
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khairul111010&label=Profile%20views&color=0e75b6&style=flat" alt="khairul111010" /> </p>
 
-## My stacks
-<img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-javascript](https://img.shields.io/badge/Javascript-211e1b?style=for-the-badge&logo=javascript&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-php](https://img.shields.io/badge/php-211e1b?style=for-the-badge&logo=php&logoColor=8a2be2&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-nodejs](https://img.shields.io/badge/nodejs-211e1b?style=for-the-badge&logo=node.js&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=8a2be2&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=8a2be2&labelColor=211e1b) <br/>
-<img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-mongodb](https://img.shields.io/badge/mongodb-211e1b?style=for-the-badge&logo=mongodb&logoColor=8a2be2&labelColor=211e1b)![badge-redis](https://img.shields.io/badge/redis-211e1b?style=for-the-badge&logo=redis&logoColor=8a2be2&labelColor=211e1b)
+<!-- TYPING DATA -->
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+21+years+old;Welcome!)
 
-## My stats
-<p align = "center">
-<img height="200" src="https://github-profile-trophy.vercel.app/?username=khairul111010&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest"/>
-<!--    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a> -->
-<p/>
-<!--- dracula base : #282a36 font : #ff79c6 -->
-<!-- <p align="left">
-<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
-<img  height= "200"src="https://github-readme-stats.vercel.app/api?username=khairul111010&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
-</p> -->
-<p align=left>
-      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=khairul111010&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=khairul111010&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-  <br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=khairul111010&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- BREVE DESCRIPCION -->
+<div align="center">
+  
+  🌱 I am currently in the race **Software Design and Development**
+
+🏙 Frontend Engineer of the [Anchorblock](https://github.com/anchorblock) organization
+
+📫 How to reach me **khairul.hasan.dev@gmail.com**
+
+</div>
+<br>
+
+<!-- CONTACTO -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/imkhairulhasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://twitter.com/imkhairulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://instagram.com/imkhairulhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
-This readme was done because I am bored and obsessed. If you liked my profile, you can :star2: the repo and to use this template you can fork it and mod.
+<!-- LENGUAJES Y HERRAMIENTAS -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
+<br>
 
-## My handles
+<!-- TROFEOS GITHUB -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairul111010&theme=dracula&column=8" alt="khairul111010" /></a> </p>
 
-[<img src="https://img.shields.io/badge/KhairulHasan-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/imkhairulhasan/) [<img src="https://img.shields.io/badge/khairul111010-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/18182595/khairul-hasan)
-[<img src="https://img.shields.io/badge/khairul111010-211e1b?style=for-the-badge&logo=SVG&logoColor=8a2be2">](https://profile-summary-for-github.com/user/khairul111010)
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div align="center">  
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khairul111010&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/khairul111010/count.svg" />
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=khairul111010&theme=tokyonight_duo&hide_border=true"
 </p>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.png">
