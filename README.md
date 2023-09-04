@@ -19,7 +19,10 @@
 
 </div>
 <br>
-
+<h2 align="center">Try this for my npm package intro</h2>
+```bash
+$ npx iamkhairulhasan
+```
 <!-- CONTACTO -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
