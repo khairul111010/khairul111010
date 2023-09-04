@@ -20,6 +20,7 @@
 </div>
 <br>
 <h2 align="center">Try this for my npm package intro</h2>
+
 ```bash
 $ npx iamkhairulhasan
 ```
