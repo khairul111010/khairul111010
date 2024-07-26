@@ -1,5 +1,4 @@
 <!-- GIT HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.png">
 <img src="https://media.licdn.com/dms/image/D4D16AQF5a0mhWX_Lww/profile-displaybackgroundimage-shrink_350_1400/0/1709630568569?e=1727308800&v=beta&t=uh2JSDq9BEPhXsAjG6YnE2BGx928tT9eXU7FWA3HoCY">
 
 <!-- VISTAS DEL PERFIL -->
