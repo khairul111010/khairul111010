@@ -52,4 +52,3 @@ npx iamkhairulhasan
 </p>
 
 <!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.png">
