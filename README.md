@@ -51,5 +51,45 @@ npx iamkhairulhasan
 
 
 <!-- MINDMAP -->
-
+```mermaid
+mindmap
+	root("Automated Mind Mapping using Large Language Models")
+		["Advantages"]
+		::icon(fa fa-thumbs-up)
+			("Efficient and time-saving")
+			::icon(fa fa-clock)
+			("Easily customizable and adaptable")
+			::icon(fa fa-cogs)
+			("Improved collaboration and communication")
+			::icon(fa fa-users)
+			("Supports creative thinking and idea generation")
+			::icon(fa fa-lightbulb)
+			("Accessible and shareable")
+			::icon(fa fa-share-alt)
+			("Scalable for large data sets")
+			::icon(fa fa-expand-arrows-alt)
+			("Minimizes human error")
+			::icon(fa fa-exclamation-triangle)
+			("Integrates with other tools and platforms")
+			::icon(fa fa-link)
+		["Disadvantages"]
+		::icon(fa fa-thumbs-down)
+			("Requires reliable and accurate data")
+			::icon(fa fa-database)
+			("Potential for privacy and security concerns")
+			::icon(fa fa-shield-alt)
+			("Dependent on quality of language model")
+			::icon(fa fa-brain)
+			("May not capture nuances and subtleties")
+			::icon(fa fa-adjust)
+			("Limited by AI understanding of context")
+			::icon(fa fa-glasses)
+			("Potential for bias in AI-generated content")
+			::icon(fa fa-balance-scale)
+			("Requires regular maintenance and updates")
+			::icon(fa fa-wrench)
+			("May be expensive to implement and maintain")
+			::icon(fa fa-dollar-sign)
+			("Lack of personal touch in content")
+```
 <!-- GIF FOOTER -->
