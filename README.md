@@ -49,4 +49,49 @@ npx iamkhairulhasan
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=khairul111010&theme=tokyonight_duo&hide_border=true"
 </p>
 
+
+<!-- MINDMAP -->
+<h2 align="center">Mindmap</h2>
+```mermaid
+mindmap
+  root
+    React
+      Basics
+        JSX
+        Components
+        Props
+        State
+      Advanced
+        Hooks
+        Context API
+        Router
+      Tools
+        Vite
+        Webpack
+        Babel
+      Testing
+        Jest
+        React Testing Library
+    TypeScript
+      Types
+        Primitive
+        Interface
+        Enum
+      Advanced
+        Generics
+        Type Guards
+        Type Inference
+      Tools
+        TSC
+        ESLint
+        Prettier
+    Projects
+      Portfolio
+        React App
+        Personal Website
+      Freelance
+        Fiverr
+        Upwork
+```
+
 <!-- GIF FOOTER -->
