@@ -13,8 +13,6 @@
   
   🌱 I am currently in the race **Software Design and Development**
 
-🏙 Frontend Engineer of the [Anchorblock](https://github.com/anchorblock) organization
-
 📫 How to reach me **khairul.hasan.dev@gmail.com**
 
 </div>
