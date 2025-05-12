@@ -42,8 +42,4 @@ npx iamkhairulhasan
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div>
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=khairul111010&theme=tokyonight_duo&hide_border=true"
-</p>
-
 <!-- GIF FOOTER -->
