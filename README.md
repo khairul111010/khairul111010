@@ -8,9 +8,9 @@
 <!-- BREVE DESCRIPCION -->
 <div align="center">
   
-  🌱 I am currently in the race **Software Design and Development**
+  Just another Tech guy
 
-📫 How to reach me **khairul.hasan.dev@gmail.com**
+  Feel free reach me **khairul.hasan.dev@gmail.com**
 
 </div>
 <br>
