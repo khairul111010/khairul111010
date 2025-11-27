@@ -1,55 +1,74 @@
-# 👋 Hello, I'm Khairul Hasan
+## 👤 Khairul Hasan - Senior Frontend Engineer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+from+Bangladesh;28+Years+of+Passion+for+Technology;Building+Digital+Solutions;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khairul111010&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/khairul111010?label=Followers&style=for-the-badge&color=00d9ff" alt="Followers" />
-</div>
-
----
-
-## 🚀 About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220" alt="Coding GIF"/>
-
-```javascript
-const khairul = {
-  location: "Bangladesh 🇧🇩",
-  age: 28,
-  role: "Full Stack Developer",
-  passion: ["Clean Code", "Innovation", "Problem Solving"],
-  currentlyLearning: ["Advanced Node.js", "Cloud Architecture"],
-  askMeAbout: ["JavaScript", "Node.js", "MongoDB", "Web Development"],
-  funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
-
-### 🎯 What I Do
-- 🔭 Currently working on **exciting web applications**
-- 🌱 Learning **advanced backend architectures**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, Node.js, and full-stack development**
-- ⚡ Fun fact: **I believe in continuous learning and growth**
+[cite_start]**Contact Information** [cite: 1, 2, 3]
+* [cite_start]**Email:** khairul.hasan.dev@gmail.com [cite: 3]
+* [cite_start]**Phone:** (+880) 1940830791 [cite: 3]
+* [cite_start]**LinkedIn:** @imkhairulhasan [cite: 3]
+* [cite_start]**GitHub:** @khairul111010 [cite: 3]
+* [cite_start]**Website:** https://khairul-hasan.netlify.app [cite: 3]
+* [cite_start]**Location:** Dhaka, Bangladesh [cite: 3]
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills
 
-<div align="center">
+| Category | Skills |
+| :--- | :--- |
+| **Frontend Development** | [cite_start]HTML5, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js [cite: 5] |
+| **State Management** | [cite_start]Redux, Context API [cite: 6] |
+| **Testing** | [cite_start]Jest, Storybook, React Testing Library [cite: 7] |
+| **Deployment** | [cite_start]Vercel, Heroku, Netlify, Docker [cite: 7] |
+| **API Tools** | [cite_start]Postman, Swagger [cite: 7] |
+| **Collaboration Tools** | [cite_start]Bitbucket, Git, GitLab, GitHub, Jira, Trello, ClickUp [cite: 8] |
+| **Languages** | [cite_start]English (Fluent), Bangla (Native) [cite: 9] |
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" alt="Frontend Skills" />
+---
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills" />
+## 💼 Experience
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" alt="Tools" />
+### Senior Frontend Developer, Wegro Global – Dhaka, Bangladesh
+[cite_start]**March 2025 – Present** [cite: 11]
+* [cite_start]**Led System Migrations & Optimization:** Architected system upgrades and feature rollouts using **TypeScript** and the latest **React** packages, focusing on performance enhancements and Webpack configuration tuning for faster load times[cite: 12].
+* [cite_start]Upgraded key projects (Publisher, Passport, core platform) to **React 19, Next.js 15**, and the latest versions of critical packages (e.g., Webpack, Babel, Ant Design, and Axios), resolving compatibility issues and significantly enhancing performance[cite: 13].
+* [cite_start]**Optimized Data Management:** Built **reusable components** (analogous to Ant Design) with advanced search, filtering, and complex query capabilities powered by **RTK Query**, ensuring high system **responsiveness** for large datasets[cite: 14].
+* [cite_start]**Enhanced User Interactions and Accessibility:** Developed **infinite scrolling** and implemented features like **clipboard copying**, advanced date/time functionalities, and seamless **PDF/file viewers** to boost productivity within the ERP[cite: 15].
 
-</div>
+### Senior Frontend Developer (Part-time), Fleetblox – Remote
+[cite_start]**November 2024 – March 2025** [cite: 17]
+* [cite_start]**Engineered Specialized Components:** Designed advanced data **components**, including complex **custom sliders** and multi-select options, for real-time **data visualization** and filtering fleet metrics[cite: 18].
+* [cite_start]**Integrated AI-Driven Solutions:** Built the UI bridge for **AI-based algorithms**, creating actionable interfaces for **optimized vehicle routing and scheduling suggestions**, significantly contributing to cost reduction[cite: 19].
+* [cite_start]**Improved Scalability and Stability:** Conducted targeted refactoring and component optimization (using **Babel** for compatibility) to ensure the platform could reliably handle a high volume of active fleet units and data streams[cite: 20].
+
+### Frontend Engineer, Anchorblock Technology – Dhaka, Bangladesh
+[cite_start]**May 2023 – February 2025** [cite: 21]
+* [cite_start]**Codebase Refactoring & Migration:** Restructured the flagship accounting application using **React** and **TypeScript**, updating core libraries and enhancing the architecture for improved maintainability and scalability[cite: 22].
+* [cite_start]**Developed Advanced Visualization Tools:** Utilized **ApexCharts and D3.js** to create **dynamic and interactive visualizations**, fundamentally improving client comprehension of financial data and complex MFS metrics[cite: 23].
+* [cite_start]**Managed High-Volume Real-time Data:** Designed a **high-performance** analytics interface for a USSD monitoring tool, requiring extreme efficiency to ensure **real-time troubleshooting** for a user base of millions[cite: 25].
+
+### Software Engineer, IOTA Infotech Limited – Dhaka, Bangladesh
+[cite_start]**April 2022 – April 2023** [cite: 26]
+* [cite_start]**Optimized Development Efficiency:** Created a custom **Redux RTK query implementation** for sophisticated state management, resulting in a measurable improvement in feature development speed and consistency across projects[cite: 27].
+* [cite_start]**Engineered Complex UI Features:** Designed and implemented a unique social media feed structure that integrated diverse media types and specific user highlight mechanisms, directly **boosting platform engagement**[cite: 28].
+* [cite_start]**Integrated Scalable Solutions:** Optimized core system architecture and API usage with an intelligent caching layer, resulting in **significant cost savings** on third-party service fees (e.g., Google Maps API)[cite: 29].
+
+---
+
+## 💻 Projects
+
+* [cite_start]**WeGro ERP & Investor App:** Comprehensive ERP solution transforming agricultural operations with real-time tracking, investor management, and financial reconciliation. [cite: 31, 32]
+    * [cite_start]*Staging Link:* Wegro ERP (Staging) [cite: 31]
+* [cite_start]**Anchorbooks:** Cutting-edge accounting software with advanced automation, AI integration, and seamless user experience for modern businesses. [cite: 33, 34]
+    * [cite_start]*Link:* [https://anchorbooks.ai/](https://anchorbooks.ai/) [cite: 33]
+* [cite_start]**Fleetblox:** AI-powered fleet management system. [cite: 35, 36]
+    * [cite_start]*Link:* [https://dev.fleetblox.com](https://dev.fleetblox.com) [cite: 35]
+
+---
+
+## 🎓 Education
+
+* [cite_start]**Bachelors in Computer Science & Engineering (CGPA - 3.53)** [cite: 38]
+    * [cite_start]*IUBAT* [cite: 38]
+    * [cite_start]*Graduation:* January 2022 [cite: 38]
 
 ---
 
@@ -60,11 +79,6 @@ Want to know more about me? Run this command in your terminal:
 ```bash
 npx iamkhairulhasan
 ```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="Terminal GIF"/>
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
