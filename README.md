@@ -1,12 +1,12 @@
 ## 👤 Khairul Hasan - Senior Frontend Engineer
 
-[cite_start]**Contact Information** [cite: 1, 2, 3]
-* [cite_start]**Email:** khairul.hasan.dev@gmail.com [cite: 3]
-* [cite_start]**Phone:** (+880) 1940830791 [cite: 3]
-* [cite_start]**LinkedIn:** @imkhairulhasan [cite: 3]
-* [cite_start]**GitHub:** @khairul111010 [cite: 3]
-* [cite_start]**Website:** https://khairul-hasan.netlify.app [cite: 3]
-* [cite_start]**Location:** Dhaka, Bangladesh [cite: 3]
+**Contact Information**
+* **Email:** khairul.hasan.dev@gmail.com
+* **Phone:** (+880) 1940830791
+* **LinkedIn:** @imkhairulhasan
+* **GitHub:** @khairul111010
+* **Website:** https://khairul-hasan.netlify.app
+* **Location:** Dhaka, Bangladesh
 
 ---
 
@@ -14,24 +14,24 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend Development** | [cite_start]HTML5, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js [cite: 5] |
-| **State Management** | [cite_start]Redux, Context API [cite: 6] |
-| **Testing** | [cite_start]Jest, Storybook, React Testing Library [cite: 7] |
-| **Deployment** | [cite_start]Vercel, Heroku, Netlify, Docker [cite: 7] |
-| **API Tools** | [cite_start]Postman, Swagger [cite: 7] |
-| **Collaboration Tools** | [cite_start]Bitbucket, Git, GitLab, GitHub, Jira, Trello, ClickUp [cite: 8] |
-| **Languages** | [cite_start]English (Fluent), Bangla (Native) [cite: 9] |
+| **Frontend Development** | HTML5, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js |
+| **State Management** | Redux, Context API |
+| **Testing** | Jest, Storybook, React Testing Library |
+| **Deployment** | Vercel, Heroku, Netlify, Docker |
+| **API Tools** | Postman, Swagger |
+| **Collaboration Tools** | Bitbucket, Git, GitLab, GitHub, Jira, Trello, ClickUp |
+| **Languages** | English (Fluent), Bangla (Native) |
 
 ---
 
 ## 💼 Experience
 
 ### Senior Frontend Developer, Wegro Global – Dhaka, Bangladesh
-[cite_start]**March 2025 – Present** [cite: 11]
-* [cite_start]**Led System Migrations & Optimization:** Architected system upgrades and feature rollouts using **TypeScript** and the latest **React** packages, focusing on performance enhancements and Webpack configuration tuning for faster load times[cite: 12].
-* [cite_start]Upgraded key projects (Publisher, Passport, core platform) to **React 19, Next.js 15**, and the latest versions of critical packages (e.g., Webpack, Babel, Ant Design, and Axios), resolving compatibility issues and significantly enhancing performance[cite: 13].
-* [cite_start]**Optimized Data Management:** Built **reusable components** (analogous to Ant Design) with advanced search, filtering, and complex query capabilities powered by **RTK Query**, ensuring high system **responsiveness** for large datasets[cite: 14].
-* [cite_start]**Enhanced User Interactions and Accessibility:** Developed **infinite scrolling** and implemented features like **clipboard copying**, advanced date/time functionalities, and seamless **PDF/file viewers** to boost productivity within the ERP[cite: 15].
+**March 2025 – Present**
+* **Led System Migrations & Optimization:** Architected system upgrades and feature rollouts using **TypeScript** and the latest **React** packages, focusing on performance enhancements and Webpack configuration tuning for faster load times.
+Upgraded key projects (Publisher, Passport, core platform) to **React 19, Next.js 15**, and the latest versions of critical packages (e.g., Webpack, Babel, Ant Design, and Axios), resolving compatibility issues and significantly enhancing performance.
+* **Optimized Data Management:** Built **reusable components** (analogous to Ant Design) with advanced search, filtering, and complex query capabilities powered by **RTK Query**, ensuring high system **responsiveness** for large datasets.
+* **Enhanced User Interactions and Accessibility:** Developed **infinite scrolling** and implemented features like **clipboard copying**, advanced date/time functionalities, and seamless **PDF/file viewers** to boost productivity within the ERP.
 
 ### Senior Frontend Developer (Part-time), Fleetblox – Remote
 [cite_start]**November 2024 – March 2025** [cite: 17]
