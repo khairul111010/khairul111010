@@ -56,7 +56,7 @@ Upgraded key projects (Publisher, Passport, core platform) to **React 19, Next.j
 ## 💻 Projects
 
 * **WeGro ERP & Investor App:** Comprehensive ERP solution transforming agricultural operations with real-time tracking, investor management, and financial reconciliation.
-    * *Staging Link:* Wegro ERP (Staging)
+    * *Staging Link:* [https://dev.wegro.global/](https://dev.wegro.global/) 
 * **Anchorbooks:** Cutting-edge accounting software with advanced automation, AI integration, and seamless user experience for modern businesses.
     * *Link:* [https://anchorbooks.ai/](https://anchorbooks.ai/) 
 * **Fleetblox:** AI-powered fleet management system.
