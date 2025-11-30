@@ -34,41 +34,41 @@ Upgraded key projects (Publisher, Passport, core platform) to **React 19, Next.j
 * **Enhanced User Interactions and Accessibility:** Developed **infinite scrolling** and implemented features like **clipboard copying**, advanced date/time functionalities, and seamless **PDF/file viewers** to boost productivity within the ERP.
 
 ### Senior Frontend Developer (Part-time), Fleetblox – Remote
-[cite_start]**November 2024 – March 2025** [cite: 17]
-* [cite_start]**Engineered Specialized Components:** Designed advanced data **components**, including complex **custom sliders** and multi-select options, for real-time **data visualization** and filtering fleet metrics[cite: 18].
-* [cite_start]**Integrated AI-Driven Solutions:** Built the UI bridge for **AI-based algorithms**, creating actionable interfaces for **optimized vehicle routing and scheduling suggestions**, significantly contributing to cost reduction[cite: 19].
-* [cite_start]**Improved Scalability and Stability:** Conducted targeted refactoring and component optimization (using **Babel** for compatibility) to ensure the platform could reliably handle a high volume of active fleet units and data streams[cite: 20].
+**November 2024 – March 2025**
+* **Engineered Specialized Components:** Designed advanced data **components**, including complex **custom sliders** and multi-select options, for real-time **data visualization** and filtering fleet metrics.
+* **Integrated AI-Driven Solutions:** Built the UI bridge for **AI-based algorithms**, creating actionable interfaces for **optimized vehicle routing and scheduling suggestions**, significantly contributing to cost reduction.
+* **Improved Scalability and Stability:** Conducted targeted refactoring and component optimization (using **Babel** for compatibility) to ensure the platform could reliably handle a high volume of active fleet units and data streams.
 
 ### Frontend Engineer, Anchorblock Technology – Dhaka, Bangladesh
-[cite_start]**May 2023 – February 2025** [cite: 21]
-* [cite_start]**Codebase Refactoring & Migration:** Restructured the flagship accounting application using **React** and **TypeScript**, updating core libraries and enhancing the architecture for improved maintainability and scalability[cite: 22].
-* [cite_start]**Developed Advanced Visualization Tools:** Utilized **ApexCharts and D3.js** to create **dynamic and interactive visualizations**, fundamentally improving client comprehension of financial data and complex MFS metrics[cite: 23].
-* [cite_start]**Managed High-Volume Real-time Data:** Designed a **high-performance** analytics interface for a USSD monitoring tool, requiring extreme efficiency to ensure **real-time troubleshooting** for a user base of millions[cite: 25].
+**May 2023 – February 2025**
+* **Codebase Refactoring & Migration:** Restructured the flagship accounting application using **React** and **TypeScript**, updating core libraries and enhancing the architecture for improved maintainability and scalability.
+* **Developed Advanced Visualization Tools:** Utilized **ApexCharts and D3.js** to create **dynamic and interactive visualizations**, fundamentally improving client comprehension of financial data and complex MFS metrics.
+* **Managed High-Volume Real-time Data:** Designed a **high-performance** analytics interface for a USSD monitoring tool, requiring extreme efficiency to ensure **real-time troubleshooting** for a user base of millions.
 
 ### Software Engineer, IOTA Infotech Limited – Dhaka, Bangladesh
-[cite_start]**April 2022 – April 2023** [cite: 26]
-* [cite_start]**Optimized Development Efficiency:** Created a custom **Redux RTK query implementation** for sophisticated state management, resulting in a measurable improvement in feature development speed and consistency across projects[cite: 27].
-* [cite_start]**Engineered Complex UI Features:** Designed and implemented a unique social media feed structure that integrated diverse media types and specific user highlight mechanisms, directly **boosting platform engagement**[cite: 28].
-* [cite_start]**Integrated Scalable Solutions:** Optimized core system architecture and API usage with an intelligent caching layer, resulting in **significant cost savings** on third-party service fees (e.g., Google Maps API)[cite: 29].
+**April 2022 – April 2023**
+* **Optimized Development Efficiency:** Created a custom **Redux RTK query implementation** for sophisticated state management, resulting in a measurable improvement in feature development speed and consistency across projects.
+* **Engineered Complex UI Features:** Designed and implemented a unique social media feed structure that integrated diverse media types and specific user highlight mechanisms, directly **boosting platform engagement**.
+* **Integrated Scalable Solutions:** Optimized core system architecture and API usage with an intelligent caching layer, resulting in **significant cost savings** on third-party service fees (e.g., Google Maps API).
 
 ---
 
 ## 💻 Projects
 
-* [cite_start]**WeGro ERP & Investor App:** Comprehensive ERP solution transforming agricultural operations with real-time tracking, investor management, and financial reconciliation. [cite: 31, 32]
-    * [cite_start]*Staging Link:* Wegro ERP (Staging) [cite: 31]
-* [cite_start]**Anchorbooks:** Cutting-edge accounting software with advanced automation, AI integration, and seamless user experience for modern businesses. [cite: 33, 34]
-    * [cite_start]*Link:* [https://anchorbooks.ai/](https://anchorbooks.ai/) [cite: 33]
-* [cite_start]**Fleetblox:** AI-powered fleet management system. [cite: 35, 36]
-    * [cite_start]*Link:* [https://dev.fleetblox.com](https://dev.fleetblox.com) [cite: 35]
+* **WeGro ERP & Investor App:** Comprehensive ERP solution transforming agricultural operations with real-time tracking, investor management, and financial reconciliation.
+    * *Staging Link:* Wegro ERP (Staging)
+* **Anchorbooks:** Cutting-edge accounting software with advanced automation, AI integration, and seamless user experience for modern businesses.
+    * *Link:* [https://anchorbooks.ai/](https://anchorbooks.ai/) 
+* **Fleetblox:** AI-powered fleet management system.
+    * *Link:* [https://dev.fleetblox.com](https://dev.fleetblox.com)
 
 ---
 
 ## 🎓 Education
 
-* [cite_start]**Bachelors in Computer Science & Engineering (CGPA - 3.53)** [cite: 38]
-    * [cite_start]*IUBAT* [cite: 38]
-    * [cite_start]*Graduation:* January 2022 [cite: 38]
+* **Bachelors in Computer Science & Engineering (CGPA - 3.53)**
+    * *IUBAT*
+    * *Graduation:* January 2022
 
 ---
 
