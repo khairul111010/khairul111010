@@ -3,9 +3,9 @@
 **Contact Information**
 * **Email:** khairul.hasan.dev@gmail.com
 * **Phone:** (+880) 1940830791
-* **LinkedIn:** @imkhairulhasan
-* **GitHub:** @khairul111010
-* **Website:** https://khairul-hasan.netlify.app
+* **LinkedIn:** [@imkhairulhasan](https://www.linkedin.com/in/imkhairulhasan/)
+* **GitHub:** [@khairul111010](https://github.com/khairul111010)
+* **Website:** [https://khairul-hasan.netlify.app](https://khairul-hasan.netlify.app/)
 * **Location:** Dhaka, Bangladesh
 
 ---
