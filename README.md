@@ -10,6 +10,16 @@
 
 ---
 
+## 📄 Resume
+
+<div align="center">
+
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Khairul%20Hasan%20-%20Fullstack.pdf)
+
+</div>
+
+---
+
 ## 🛠️ Skills
 
 | Category | Skills |
