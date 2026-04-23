@@ -1,150 +1,121 @@
-## 👤 Khairul Hasan - Senior Frontend Engineer
+# Khairul Hasan
 
-**Contact Information**
-* **Email:** khairul.hasan.dev@gmail.com
-* **Phone:** (+880) 1940830791
-* **LinkedIn:** [@imkhairulhasan](https://www.linkedin.com/in/imkhairulhasan/)
-* **GitHub:** [@khairul111010](https://github.com/khairul111010)
-* **Website:** [https://khairul-hasan.netlify.app](https://khairul-hasan.netlify.app/)
-* **Location:** Dhaka, Bangladesh
+[LinkedIn](#) | +8801940830791 | [https://khairul-hasan.netlify.app](https://khairul-hasan.netlify.app) | khairul.hasan.dev@gmail.com | [GitHub](#)
 
 ---
 
-## 📄 Resume
+## Professional Summary
 
-<div align="center">
-
-[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Khairul%20Hasan%20-%20Fullstack.pdf)
-
-</div>
+Frontend Engineer with 4+ years of experience building **high-performance, scalable web applications** using **React, TypeScript, and modern JavaScript (ES6+)**. Strong expertise in **asynchronous programming, DOM optimization, and component-driven architecture**. Proven track record of delivering **responsive, user-centric interfaces** with clean CSS and optimized rendering. Experienced in **collaborative Git workflows**, performance tuning, and leveraging **AI-assisted development** to improve efficiency and code quality.
 
 ---
 
-## 🛠️ Skills
+## Technical Skills
 
-| Category | Skills |
-| :--- | :--- |
-| **Frontend Development** | HTML5, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js |
-| **State Management** | Redux, Context API |
-| **Testing** | Jest, Storybook, React Testing Library |
-| **Deployment** | Vercel, Heroku, Netlify, Docker |
-| **API Tools** | Postman, Swagger |
-| **Collaboration Tools** | Bitbucket, Git, GitLab, GitHub, Jira, Trello, ClickUp |
-| **Languages** | English (Fluent), Bangla (Native) |
+- **Languages:** JavaScript (ES6+, Async/Await, Event Loop) | TypeScript | HTML5, CSS3
+- **Frontend Development:** React.js (Advanced) | React Native | Next.js | Redux | RTK Query | TailwindCSS | Responsive Design & Cross-Browser Compatibility
+- **Performance & Architecture:** Lazy Loading, Code Splitting | Webpack Optimization | Component Reusability & Design Systems | Efficient State Management
+- **Tools & Collaboration:** Git (branching, PR reviews, CI/CD workflows) | GitHub | VS Code
+- **AI Development:** LangChain, LangGraph *(Certified — [LangChain](https://academy.langchain.com/certificates/lkxbxekrwo), [LangGraph](https://academy.langchain.com/certificates/lirqamhvss))*
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Senior Frontend Developer, Wegro Global – Dhaka, Bangladesh
-**March 2025 – Present**
-* **Led System Migrations & Optimization:** Architected system upgrades and feature rollouts using **TypeScript** and the latest **React** packages, focusing on performance enhancements and Webpack configuration tuning for faster load times.
-Upgraded key projects (Publisher, Passport, core platform) to **React 19, Next.js 15**, and the latest versions of critical packages (e.g., Webpack, Babel, Ant Design, and Axios), resolving compatibility issues and significantly enhancing performance.
-* **Optimized Data Management:** Built **reusable components** (analogous to Ant Design) with advanced search, filtering, and complex query capabilities powered by **RTK Query**, ensuring high system **responsiveness** for large datasets.
-* **Enhanced User Interactions and Accessibility:** Developed **infinite scrolling** and implemented features like **clipboard copying**, advanced date/time functionalities, and seamless **PDF/file viewers** to boost productivity within the ERP.
+### Senior Software Developer — [WeGro](https://www.wegro.global)
+**Dhaka, Bangladesh | 03/2025 – Present**
 
-### Senior Frontend Developer (Part-time), Fleetblox – Remote
-**November 2024 – March 2025**
-* **Engineered Specialized Components:** Designed advanced data **components**, including complex **custom sliders** and multi-select options, for real-time **data visualization** and filtering fleet metrics.
-* **Integrated AI-Driven Solutions:** Built the UI bridge for **AI-based algorithms**, creating actionable interfaces for **optimized vehicle routing and scheduling suggestions**, significantly contributing to cost reduction.
-* **Improved Scalability and Stability:** Conducted targeted refactoring and component optimization (using **Babel** for compatibility) to ensure the platform could reliably handle a high volume of active fleet units and data streams.
-
-### Frontend Engineer, Anchorblock Technology – Dhaka, Bangladesh
-**May 2023 – February 2025**
-* **Codebase Refactoring & Migration:** Restructured the flagship accounting application using **React** and **TypeScript**, updating core libraries and enhancing the architecture for improved maintainability and scalability.
-* **Developed Advanced Visualization Tools:** Utilized **ApexCharts and D3.js** to create **dynamic and interactive visualizations**, fundamentally improving client comprehension of financial data and complex MFS metrics.
-* **Managed High-Volume Real-time Data:** Designed a **high-performance** analytics interface for a USSD monitoring tool, requiring extreme efficiency to ensure **real-time troubleshooting** for a user base of millions.
-
-### Software Engineer, IOTA Infotech Limited – Dhaka, Bangladesh
-**April 2022 – April 2023**
-* **Optimized Development Efficiency:** Created a custom **Redux RTK query implementation** for sophisticated state management, resulting in a measurable improvement in feature development speed and consistency across projects.
-* **Engineered Complex UI Features:** Designed and implemented a unique social media feed structure that integrated diverse media types and specific user highlight mechanisms, directly **boosting platform engagement**.
-* **Integrated Scalable Solutions:** Optimized core system architecture and API usage with an intelligent caching layer, resulting in **significant cost savings** on third-party service fees (e.g., Google Maps API).
+- **Architected scalable frontend systems** using React, TypeScript, and Next.js, improving maintainability and application performance.
+- **Optimized rendering performance** through lazy loading, efficient state management, and Webpack tuning, reducing load times and improving user experience.
+- **Developed reusable, high-performance UI components** (tables, filters, data views), enabling faster feature development and consistent design.
+- **Implemented advanced asynchronous patterns** (infinite scrolling, background data fetching), ensuring smooth handling of large datasets.
+- **Improved DOM efficiency and UI responsiveness**, enhancing usability across complex data-driven interfaces.
+- **Collaborated with cross-functional teams using Git workflows**, ensuring clean, production-ready code.
 
 ---
 
-## 💻 Projects
+### Senior Software Developer (Part-time) — [Fleetblox](https://www.fleetblox.com)
+**Remote | 11/2024 – 03/2025**
 
-* **WeGro ERP & Investor App:** Comprehensive ERP solution transforming agricultural operations with real-time tracking, investor management, and financial reconciliation.
-    * *Staging Link:* [https://dev.wegro.global/](https://dev.wegro.global/) 
-* **Anchorbooks:** Cutting-edge accounting software with advanced automation, AI integration, and seamless user experience for modern businesses.
-    * *Link:* [https://anchorbooks.ai/](https://anchorbooks.ai/) 
-* **Fleetblox:** AI-powered fleet management system.
-    * *Link:* [https://dev.fleetblox.com](https://dev.fleetblox.com)
-
----
-
-## 🎓 Education
-
-* **Bachelors in Computer Science & Engineering (CGPA - 3.53)**
-    * *IUBAT*
-    * *Graduation:* January 2022
+- **Built interactive and data-intensive UI components** for real-time fleet management systems.
+- **Optimized frontend performance for high-frequency data updates**, ensuring smooth rendering under continuous data streams.
+- **Developed advanced filtering and search interfaces**, improving user interaction and data accessibility.
+- **Refactored existing components for scalability and maintainability**, reducing technical debt.
+- **Automated UI testing workflows**, improving reliability and reducing manual QA efforts.
 
 ---
 
-## 💡 Try My NPX Package!
+### Software Engineer — [Anchorblock](https://anchorblock.ai)
+**Dhaka, Bangladesh | 05/2023 – 03/2025**
 
-Want to know more about me? Run this command in your terminal:
-
-```bash
-npx iamkhairulhasan
-```
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khairul111010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairul111010&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
+- **Re-architected frontend applications using React and TypeScript**, improving code structure and scalability.
+- **Developed high-performance dashboards and data visualizations** using ApexCharts and D3.js.
+- **Designed flexible UI systems** for dynamic reporting and configuration-based layouts.
+- **Ensured responsive design and cross-device compatibility**, improving accessibility and user experience.
+- **Applied clean CSS practices and component isolation**, enhancing maintainability and consistency.
 
 ---
 
-## 🏆 GitHub Trophies
+### Software Engineer — [IOTA Infotech Limited](https://iotait.tech)
+**Dhaka, Bangladesh | 04/2022 – 04/2023**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khairul111010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khairul111010&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+- **Developed dynamic frontend features** using React and modern JavaScript, improving user engagement.
+- **Implemented efficient state management solutions**, ensuring smooth data flow across components.
+- **Optimized API integration and frontend performance**, reducing latency and improving responsiveness.
+- **Enhanced UI/UX with interactive elements**, aligning with modern web standards.
+- **Collaborated with teams using Git**, maintaining structured and efficient workflows.
 
 ---
 
-## 🤝 Let's Connect!
+## Projects
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imkhairulhasan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamkhairulhasan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamkhairulhasan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairul.hasan.dev@gmail.com)
+### WeGro ERP & Investor App — [Link](https://dev.wegro.global)
+**Dhaka, Bangladesh | 03/2025 – Present**
 
-</div>
+*Comprehensive ERP solution transforming agricultural operations with investor management and financial reconciliation.*
 
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+- ERP for 15,000+ farmers, field officers & accountants
+- Dynamic investor portal handling $800K+ transactions
+- Bank panel for reconciliation with zero errors
+- Multi-role dashboard with advanced analytics
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
+### Fleetblox — [Link](https://dev.fleetblox.com/)
+**Remote | 11/2024 – 03/2025**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer"/>
-</div>
+*Revolutionary AI-powered fleet management system optimizing routes, monitoring vehicle health, and reducing operational costs.*
+
+- AI-based route optimization and fleet scheduling
+- Real-time vehicle tracking and health monitoring
+- Dashboard for 100+ fleet companies (5,000+ vehicles)
+- Predictive maintenance with cost savings
+- Advanced analytics and reporting suite
+
+---
+
+### Anchorbooks — [Link](https://anchorbooks.ai)
+**Dhaka, Bangladesh | 05/2023 – 03/2025**
+
+*Accounting software with advanced automation, AI integration, and seamless user experience for modern businesses.*
+
+- Advanced automation & AI integration
+- Accuracy and compliance focused architecture
+- Real-time financial reporting and analytics
+- Multi-currency and multi-entity support
+
+---
+
+## Education
+
+**Bachelor of Computer Science & Engineering** — CGPA 3.53
+International University of Business Agriculture & Technology
+
+---
+
+## Recommendations
+
+| **Md. Mehedi Hasan** | **Tanjin Alam** |
+|---|---|
+| CTO, *WeGro* | Senior DevOps Engineer |
+| [mehedi@wegro.global](mailto:mehedi@wegro.global) | [piash.tanjin@gmail.com](mailto:piash.tanjin@gmail.com) |
