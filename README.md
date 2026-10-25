@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Khairul Hasan 👋</h1>
-<h3 align="center">Senior Frontend Engineer · Angular · TypeScript · RxJS · React</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 <p align="center">
   <a href="https://khairul-hasan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
