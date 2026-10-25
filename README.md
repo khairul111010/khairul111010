@@ -11,7 +11,7 @@
 
 ### About me
 
-I'm a frontend engineer from **Dhaka, Bangladesh** with **6 years** of experience building fast, data-heavy **Single Page Applications** in **TypeScript**. Most of my work is on real-time dashboards, ERP systems and fintech/monitoring tools, where large datasets and live updates have to stay smooth.
+I'm a senior software engineer from **Dhaka, Bangladesh** with **6 years** of experience building fast, data-heavy **Single Page Applications** in **TypeScript**. Most of my work is on real-time dashboards, ERP systems and fintech/monitoring tools, where large datasets and live updates have to stay smooth.
 
 - 🔭 Currently **Senior Frontend Developer at [WeGro](https://www.wegro.global)**, building an ERP and investor platform used by **15,000+ farmers, field officers and accountants**
 - ⚡ I focus on **performance**: lazy loading, code splitting, bundle-size tuning and efficient client-side state
