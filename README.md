@@ -1,121 +1,96 @@
-# Khairul Hasan
+<h1 align="center">Hi, I'm Khairul Hasan 👋</h1>
+<h3 align="center">Senior Frontend Engineer · Angular · TypeScript · RxJS · React</h3>
 
-[LinkedIn](#) | +8801940830791 | [https://khairul-hasan.netlify.app](https://khairul-hasan.netlify.app) | khairul.hasan.dev@gmail.com | [GitHub](#)
-
----
-
-## Professional Summary
-
-Frontend Engineer with 4+ years of experience building **high-performance, scalable web applications** using **React, TypeScript, and modern JavaScript (ES6+)**. Strong expertise in **asynchronous programming, DOM optimization, and component-driven architecture**. Proven track record of delivering **responsive, user-centric interfaces** with clean CSS and optimized rendering. Experienced in **collaborative Git workflows**, performance tuning, and leveraging **AI-assisted development** to improve efficiency and code quality.
-
----
-
-## Technical Skills
-
-- **Languages:** JavaScript (ES6+, Async/Await, Event Loop) | TypeScript | HTML5, CSS3
-- **Frontend Development:** React.js (Advanced) | React Native | Next.js | Redux | RTK Query | TailwindCSS | Responsive Design & Cross-Browser Compatibility
-- **Performance & Architecture:** Lazy Loading, Code Splitting | Webpack Optimization | Component Reusability & Design Systems | Efficient State Management
-- **Tools & Collaboration:** Git (branching, PR reviews, CI/CD workflows) | GitHub | VS Code
-- **AI Development:** LangChain, LangGraph *(Certified — [LangChain](https://academy.langchain.com/certificates/lkxbxekrwo), [LangGraph](https://academy.langchain.com/certificates/lirqamhvss))*
+<p align="center">
+  <a href="https://khairul-hasan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/imkhairulhasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:khairul.hasan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## Experience
+### About me
 
-### Senior Software Developer — [WeGro](https://www.wegro.global)
-**Dhaka, Bangladesh | 03/2025 – Present**
+I'm a frontend engineer from **Dhaka, Bangladesh** with **6 years** of experience building fast, data-heavy **Single Page Applications** in **TypeScript**. Most of my work is on real-time dashboards, ERP systems and fintech/monitoring tools, where large datasets and live updates have to stay smooth.
 
-- **Architected scalable frontend systems** using React, TypeScript, and Next.js, improving maintainability and application performance.
-- **Optimized rendering performance** through lazy loading, efficient state management, and Webpack tuning, reducing load times and improving user experience.
-- **Developed reusable, high-performance UI components** (tables, filters, data views), enabling faster feature development and consistent design.
-- **Implemented advanced asynchronous patterns** (infinite scrolling, background data fetching), ensuring smooth handling of large datasets.
-- **Improved DOM efficiency and UI responsiveness**, enhancing usability across complex data-driven interfaces.
-- **Collaborated with cross-functional teams using Git workflows**, ensuring clean, production-ready code.
+- 🔭 Currently **Senior Frontend Developer at [WeGro](https://www.wegro.global)**, building an ERP and investor platform used by **15,000+ farmers, field officers and accountants**
+- ⚡ I focus on **performance**: lazy loading, code splitting, bundle-size tuning and efficient client-side state
+- 🔄 I like **refactoring and modernizing legacy frontends** into clean, scalable architecture without breaking production
+- 🤝 I work closely with backend engineers on API integration and review PRs to keep the codebase clean
+- 🤖 Exploring AI-assisted products with **LangChain and LangGraph** (certified)
 
 ---
 
-### Senior Software Developer (Part-time) — [Fleetblox](https://www.fleetblox.com)
-**Remote | 11/2024 – 03/2025**
+### Tech stack
 
-- **Built interactive and data-intensive UI components** for real-time fleet management systems.
-- **Optimized frontend performance for high-frequency data updates**, ensuring smooth rendering under continuous data streams.
-- **Developed advanced filtering and search interfaces**, improving user interaction and data accessibility.
-- **Refactored existing components for scalability and maintainability**, reducing technical debt.
-- **Automated UI testing workflows**, improving reliability and reducing manual QA efforts.
+**Frameworks & languages**
 
----
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Software Engineer — [Anchorblock](https://anchorblock.ai)
-**Dhaka, Bangladesh | 05/2023 – 03/2025**
+**State, styling & data viz**
 
-- **Re-architected frontend applications using React and TypeScript**, improving code structure and scalability.
-- **Developed high-performance dashboards and data visualizations** using ApexCharts and D3.js.
-- **Designed flexible UI systems** for dynamic reporting and configuration-based layouts.
-- **Ensured responsive design and cross-device compatibility**, improving accessibility and user experience.
-- **Applied clean CSS practices and component isolation**, enhancing maintainability and consistency.
+![Redux](https://img.shields.io/badge/Redux_/_RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square&logoColor=white)
 
----
+**Tools & other**
 
-### Software Engineer — [IOTA Infotech Limited](https://iotait.tech)
-**Dhaka, Bangladesh | 04/2022 – 04/2023**
-
-- **Developed dynamic frontend features** using React and modern JavaScript, improving user engagement.
-- **Implemented efficient state management solutions**, ensuring smooth data flow across components.
-- **Optimized API integration and frontend performance**, reducing latency and improving responsiveness.
-- **Enhanced UI/UX with interactive elements**, aligning with modern web standards.
-- **Collaborated with teams using Git**, maintaining structured and efficient workflows.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain_/_LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
-## Projects
+### What I've built
 
-### WeGro ERP & Investor App — [Link](https://dev.wegro.global)
-**Dhaka, Bangladesh | 03/2025 – Present**
-
-*Comprehensive ERP solution transforming agricultural operations with investor management and financial reconciliation.*
-
-- ERP for 15,000+ farmers, field officers & accountants
-- Dynamic investor portal handling $800K+ transactions
-- Bank panel for reconciliation with zero errors
-- Multi-role dashboard with advanced analytics
+| Project | What it does | Highlights |
+|---|---|---|
+| **[WeGro ERP & Investor App](https://www.wegro.global)** | ERP for agricultural operations, with investor management and financial reconciliation | 15,000+ users · investor portal handling **$800K+** in transactions · bank reconciliation panel with zero errors · multi-role analytics dashboards |
+| **[Fleetblox](https://www.fleetblox.com)** | AI-powered fleet management platform | Real-time vehicle tracking and health monitoring · dashboards for **100+ fleet companies (5,000+ vehicles)** · smooth rendering under high-frequency live data |
+| **[Anchorbooks](https://anchorbooks.ai)** | Accounting software with automation and AI integration | Real-time financial reporting · multi-currency and multi-entity support |
+| **USSD Monitoring System for bKash** | Real-time monitoring of USSD service activity | Live dashboards and data visualizations built with ApexCharts and D3.js |
 
 ---
 
-### Fleetblox — [Link](https://dev.fleetblox.com/)
-**Remote | 11/2024 – 03/2025**
+### What I focus on
 
-*Revolutionary AI-powered fleet management system optimizing routes, monitoring vehicle health, and reducing operational costs.*
-
-- AI-based route optimization and fleet scheduling
-- Real-time vehicle tracking and health monitoring
-- Dashboard for 100+ fleet companies (5,000+ vehicles)
-- Predictive maintenance with cost savings
-- Advanced analytics and reporting suite
-
----
-
-### Anchorbooks — [Link](https://anchorbooks.ai)
-**Dhaka, Bangladesh | 05/2023 – 03/2025**
-
-*Accounting software with advanced automation, AI integration, and seamless user experience for modern businesses.*
-
-- Advanced automation & AI integration
-- Accuracy and compliance focused architecture
-- Real-time financial reporting and analytics
-- Multi-currency and multi-entity support
+```ts
+const khairul = {
+  role: "Senior Frontend Engineer",
+  location: "Dhaka, Bangladesh",
+  core: ["Angular", "TypeScript", "RxJS", "React", "Next.js"],
+  strengths: [
+    "Data-intensive SPAs & real-time dashboards",
+    "Performance: lazy loading, code splitting, bundle size",
+    "Legacy refactoring & frontend modernization",
+    "Reusable component libraries",
+    "Clean, lean, responsive CSS",
+  ],
+  workStyle: ["API-first collaboration with backend teams", "Thorough PR reviews"],
+  openTo: "Frontend roles building complex, real-time web apps",
+};
+```
 
 ---
 
-## Education
+### GitHub stats
 
-**Bachelor of Computer Science & Engineering** — CGPA 3.53
-International University of Business Agriculture & Technology
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khairul111010&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
 
 ---
 
-## Recommendations
-
-| **Md. Mehedi Hasan** | **Tanjin Alam** |
-|---|---|
-| CTO, *WeGro* | Senior DevOps Engineer |
-| [mehedi@wegro.global](mailto:mehedi@wegro.global) | [piash.tanjin@gmail.com](mailto:piash.tanjin@gmail.com) |
+<p align="center">💬 Open to new opportunities. Feel free to reach out at <a href="mailto:khairul.hasan.dev@gmail.com">khairul.hasan.dev@gmail.com</a></p>
